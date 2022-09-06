@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fddc0397887ba41b8d5bf6259385a3, type: 3}
+  m_Name: Bodies
+  m_EditorClassIdentifier: 
+  Parts:
+  - {fileID: 8003374784659473857, guid: a7e38d56182440940b26acf17fbb7b59, type: 3}
+  - {fileID: 8003374784659473857, guid: 0d74cd00036aae641b090d0b3699d670, type: 3}
+  - {fileID: 8003374784659473857, guid: f745f4259ae81c64b8cc416a1b94b702, type: 3}
+  - {fileID: 8003374784659473857, guid: 8162752bbbfad7f4da26ab0cd2616966, type: 3}
+  - {fileID: 8003374784659473857, guid: e58355e9ef6c9424a96a90fd6d815d9a, type: 3}
+  - {fileID: 8003374784659473857, guid: 4c0eb500e3a3fa14e9ac9aeaf01ac41e, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fddc0397887ba41b8d5bf6259385a3, type: 3}
+  m_Name: Arms
+  m_EditorClassIdentifier: 
+  Parts:
+  - {fileID: -8227893400763605836, guid: c4d97dddc8644934b983a685329d5488, type: 3}
+  - {fileID: -8227893400763605836, guid: 4cc903a6317bb444584e83602ab003f1, type: 3}
+  - {fileID: -8227893400763605836, guid: 9aa9438fcd2bf4d4e8e647633c220b16, type: 3}
+  - {fileID: -8227893400763605836, guid: 1d0deac740f7c2b4d8f7c4b346313df1, type: 3}
+  - {fileID: -8227893400763605836, guid: 0abcd3aca565c2d478a48f9e639488d6, type: 3}

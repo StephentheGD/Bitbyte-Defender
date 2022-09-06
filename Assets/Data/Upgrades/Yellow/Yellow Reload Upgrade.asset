@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 263d0be88563df246b8d42e33c959707, type: 3}
+  m_Name: Yellow Reload Upgrade
+  m_EditorClassIdentifier: 
+  Name: Octopus Fingers
+  Description: A lot of guns means a lot of fingers. You're gonna need a lot of willpower
+    to handle these.
+  EffectString: Sentry Gun Reload x1.5
+  Icon: {fileID: 21300000, guid: 9774e1e9ac0c87842847b7940123a00b, type: 3}
+  Class: 1
+  Effect: 2
+  MaxUpgrades: 10
